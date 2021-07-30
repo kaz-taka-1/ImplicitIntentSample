@@ -40,7 +40,7 @@
             android:text="@string/tv_latitude_title"/>
 
         <TextView
-            android:id="@+id/tvLoatitude"
+            android:id="@+id/tvLatitude"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginRight="5dp"
